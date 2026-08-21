@@ -1,0 +1,25 @@
+dataset,Product converted,conversions,topn_hits,topn_hit_rate,dataset_role,source_label,note,raw_customer_count
+Syn_01,CC,3705,3640,0.9824561403508772,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,HL,2558,1338,0.5230648944487881,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,MF,3592,3325,0.9256681514476616,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,PL,4664,3816,0.8181818181818182,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,RD,3138,2912,0.9279796048438496,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,SA,148,127,0.8581081081081081,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_02,CC,2537,2508,0.9885691761923532,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,HL,952,337,0.3539915966386555,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,MF,2045,1738,0.8498777506112469,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,PL,2868,2032,0.708507670850767,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,RD,1482,1029,0.694331983805668,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,SA,30,22,0.7333333333333333,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_03,CC,295,291,0.9864406779661016,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,HL,83,36,0.4337349397590361,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,MF,240,220,0.9166666666666666,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,PL,302,238,0.7880794701986755,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,RD,172,159,0.9244186046511628,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,SA,26,26,1.0,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_04,CC,2491,2483,0.9967884383781612,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,HL,591,408,0.6903553299492385,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,MF,1095,1036,0.9461187214611873,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,PL,1947,1766,0.9070364663585002,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,RD,1860,1797,0.9661290322580646,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,SA,272,259,0.9522058823529412,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000

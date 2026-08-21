@@ -1,0 +1,37 @@
+recommendation_reason,recommendation_count
+customer profile fit,14957
+medium propensity; customer profile fit,13157
+low/neutral signal,5228
+medium propensity; recent digital product interest; customer profile fit,3214
+recent digital product interest; customer profile fit,1807
+high propensity; customer profile fit,1470
+recent digital product interest,723
+high propensity; recent digital product interest; customer profile fit,668
+medium propensity,441
+medium propensity; strong segment fit; customer profile fit,309
+high propensity; strong segment fit; customer profile fit,279
+medium propensity; similar to products already held; strong segment fit; customer profile fit,248
+high propensity; strong segment fit; recent digital product interest; customer profile fit,234
+medium propensity; strong segment fit; recent digital product interest; customer profile fit,147
+high propensity; similar to products already held; strong segment fit; customer profile fit,146
+medium propensity; recent digital product interest,126
+medium propensity; similar to products already held; strong segment fit; related transaction activity; customer profile fit,122
+strong segment fit; customer profile fit,89
+medium propensity; similar to products already held; strong segment fit; recent digital product interest; customer profile fit,69
+high propensity; similar to products already held; strong segment fit; recent digital product interest; customer profile fit,62
+high propensity; similar to products already held; strong segment fit; related transaction activity; customer profile fit,60
+high propensity; similar to products already held; strong segment fit; recent digital product interest; related transaction activity; customer profile fit,56
+medium propensity; similar to products already held; strong segment fit; recent digital product interest; related transaction activity; customer profile fit,48
+high propensity,24
+high propensity; strong segment fit; recent digital product interest,22
+medium propensity; strong segment fit,21
+high propensity; strong segment fit,20
+high propensity; recent digital product interest,12
+strong segment fit,12
+medium propensity; strong segment fit; recent digital product interest,8
+strong segment fit; recent digital product interest; customer profile fit,7
+similar to products already held; strong segment fit; customer profile fit,7
+similar to products already held; strong segment fit; related transaction activity; customer profile fit,3
+similar to products already held; strong segment fit; recent digital product interest; customer profile fit,2
+strong segment fit; recent digital product interest,1
+similar to products already held; strong segment fit; recent digital product interest; related transaction activity; customer profile fit,1

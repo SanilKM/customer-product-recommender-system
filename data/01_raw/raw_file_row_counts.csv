@@ -1,0 +1,10 @@
+file,rows,columns
+conversion_data_july_2026.csv,1118,6
+customer_demographics.csv,15000,58
+digital_clicks.csv,30000,20
+digital_login.csv,15000,12
+product_holdings.csv,15000,17
+product_metadata.csv,8,13
+product_propensity.csv,15000,8
+raw_transactions.csv,50000,26
+transaction_aggregates.csv,15000,15

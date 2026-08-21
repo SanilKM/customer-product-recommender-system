@@ -1,0 +1,73 @@
+dataset,dataset_role,status,returncode,stdout_tail,stderr_tail
+Syn_01,Large synthetic iteration 1,success,0,"load_customer_data: 2.99 sec
+build_customer_feature_matrix: 1.67 sec
+kmeans_clustering: 3.56 sec
+cluster_profile_summary: 0.81 sec
+cluster_defining_features: 5.32 sec
+cluster_first_knn: 26.95 sec
+create_top_n_recommendations: 0.81 sec
+evaluate_recommendations: 0.33 sec
+create_visualizations: 2.67 sec
+
+Finished: Syn_01
+Customers: 235637
+Total runtime seconds: 83.98
+Outputs: data\06_cluster_first_knn_outputs\Syn_01
+","c:\Users\maheshsk\Downloads\Axis Int - Rec Sys\Coding\src\cluster_first_knn_recommender.py:270: Pandas4Warning: For backward compatibility, 'str' dtypes are included by select_dtypes when 'object' dtype is specified. This behavior is deprecated and will be removed in a future version. Explicitly pass 'str' to `include` to select them, or to `exclude` to remove them and silence this warning.
+See https://pandas.pydata.org/docs/user_guide/migration-3-strings.html#string-migration-select-dtypes for details on how to write code that works with pandas 2 and 3.
+  object_cols = customer_df.select_dtypes(include=[""object"", ""category""]).columns.tolist()
+"
+Syn_02,Large synthetic iteration 2,success,0,"load_customer_data: 1.58 sec
+build_customer_feature_matrix: 0.93 sec
+kmeans_clustering: 2.19 sec
+cluster_profile_summary: 0.50 sec
+cluster_defining_features: 3.03 sec
+cluster_first_knn: 15.44 sec
+create_top_n_recommendations: 0.45 sec
+evaluate_recommendations: 0.19 sec
+create_visualizations: 2.33 sec
+
+Finished: Syn_02
+Customers: 135640
+Total runtime seconds: 48.89
+Outputs: data\06_cluster_first_knn_outputs\Syn_02
+","c:\Users\maheshsk\Downloads\Axis Int - Rec Sys\Coding\src\cluster_first_knn_recommender.py:270: Pandas4Warning: For backward compatibility, 'str' dtypes are included by select_dtypes when 'object' dtype is specified. This behavior is deprecated and will be removed in a future version. Explicitly pass 'str' to `include` to select them, or to `exclude` to remove them and silence this warning.
+See https://pandas.pydata.org/docs/user_guide/migration-3-strings.html#string-migration-select-dtypes for details on how to write code that works with pandas 2 and 3.
+  object_cols = customer_df.select_dtypes(include=[""object"", ""category""]).columns.tolist()
+"
+Syn_03,Original 15k baseline,success,0,"load_customer_data: 0.24 sec
+build_customer_feature_matrix: 0.16 sec
+kmeans_clustering: 1.60 sec
+cluster_profile_summary: 0.20 sec
+cluster_defining_features: 0.39 sec
+cluster_first_knn: 0.74 sec
+create_top_n_recommendations: 0.04 sec
+evaluate_recommendations: 0.03 sec
+create_visualizations: 2.13 sec
+
+Finished: Syn_03
+Customers: 15000
+Total runtime seconds: 8.46
+Outputs: data\06_cluster_first_knn_outputs\Syn_03
+","c:\Users\maheshsk\Downloads\Axis Int - Rec Sys\Coding\src\cluster_first_knn_recommender.py:270: Pandas4Warning: For backward compatibility, 'str' dtypes are included by select_dtypes when 'object' dtype is specified. This behavior is deprecated and will be removed in a future version. Explicitly pass 'str' to `include` to select them, or to `exclude` to remove them and silence this warning.
+See https://pandas.pydata.org/docs/user_guide/migration-3-strings.html#string-migration-select-dtypes for details on how to write code that works with pandas 2 and 3.
+  object_cols = customer_df.select_dtypes(include=[""object"", ""category""]).columns.tolist()
+"
+Syn_04,Large synthetic iteration 4,success,0,"load_customer_data: 1.35 sec
+build_customer_feature_matrix: 0.55 sec
+kmeans_clustering: 1.93 sec
+cluster_profile_summary: 0.51 sec
+cluster_defining_features: 2.93 sec
+cluster_first_knn: 13.81 sec
+create_top_n_recommendations: 0.39 sec
+evaluate_recommendations: 0.16 sec
+create_visualizations: 2.25 sec
+
+Finished: Syn_04
+Customers: 125000
+Total runtime seconds: 38.41
+Outputs: data\06_cluster_first_knn_outputs\Syn_04
+","c:\Users\maheshsk\Downloads\Axis Int - Rec Sys\Coding\src\cluster_first_knn_recommender.py:270: Pandas4Warning: For backward compatibility, 'str' dtypes are included by select_dtypes when 'object' dtype is specified. This behavior is deprecated and will be removed in a future version. Explicitly pass 'str' to `include` to select them, or to `exclude` to remove them and silence this warning.
+See https://pandas.pydata.org/docs/user_guide/migration-3-strings.html#string-migration-select-dtypes for details on how to write code that works with pandas 2 and 3.
+  object_cols = customer_df.select_dtypes(include=[""object"", ""category""]).columns.tolist()
+"

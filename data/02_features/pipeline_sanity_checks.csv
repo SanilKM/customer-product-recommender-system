@@ -1,0 +1,10 @@
+check,value,expected
+model_ready_rows,90000,customers x months x 6 products
+unique_customers,15000,should match customer_demographics
+products,"CC, HL, MF, PL, RD, SA","PL, CC, HL, SA, RD, MF"
+already_held_recommendation_rows,0,0
+top_3_rows,43800,up to customers x months x 3
+propensity_score_min,0.01,>= 0
+propensity_score_max,0.912,<= 1
+recommendation_score_min,0.0,>= 0
+recommendation_score_max,0.6434,"<= 1-ish, depending on weighted components"

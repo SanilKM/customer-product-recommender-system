@@ -1,0 +1,5 @@
+dataset,dataset_role,source_label,note,raw_customer_count,raw_folder
+Syn_01,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637,data\01_raw\Syn_01
+Syn_02,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640,data\01_raw\Syn_02
+Syn_03,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000,data\01_raw\Syn_03
+Syn_04,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000,data\01_raw\Syn_04

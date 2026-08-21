@@ -1,0 +1,29 @@
+dataset,actual_product,predicted_PL,predicted_CC,predicted_HL,predicted_SA,predicted_RD,predicted_MF,predicted_NO_RECOMMENDATION,dataset_role,source_label,note,raw_customer_count
+Syn_01,actual_PL,1019,1659,53,187,774,967,5,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,actual_CC,25,2928,6,112,298,334,2,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,actual_HL,292,890,115,109,562,590,0,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,actual_SA,3,6,1,127,4,7,0,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,actual_RD,268,1078,24,108,1040,618,2,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,actual_MF,258,1194,18,149,500,1472,1,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_01,actual_NO_RECOMMENDATION,0,0,0,0,0,0,0,Large synthetic iteration 1,LLM synthetic dataset 1,Generated larger synthetic dataset.,235637
+Syn_02,actual_PL,372,1600,35,160,301,400,0,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,actual_CC,108,1912,2,124,225,166,0,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,actual_HL,85,524,15,48,91,189,0,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,actual_SA,1,5,0,22,1,1,0,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,actual_RD,117,809,16,79,254,207,0,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,actual_MF,181,1079,4,109,235,437,0,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_02,actual_NO_RECOMMENDATION,0,0,0,0,0,0,0,Large synthetic iteration 2,LLM synthetic dataset 2,Generated larger synthetic dataset.,135640
+Syn_03,actual_PL,41,117,3,24,49,68,0,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,actual_CC,4,215,2,21,29,24,0,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,actual_HL,6,30,7,7,14,19,0,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,actual_SA,0,0,0,26,0,0,0,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,actual_RD,17,61,2,8,49,35,0,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,actual_MF,17,70,1,15,47,90,0,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_03,actual_NO_RECOMMENDATION,0,0,0,0,0,0,0,Original 15k baseline,Original 15k dataset copied into Syn_03,"Grok was not able to generate a good synthetic dataset for this iteration, so I copied the original 15k dataset into Syn_03.",15000
+Syn_04,actual_PL,615,353,75,40,477,387,0,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,actual_CC,9,2327,1,81,50,19,4,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,actual_HL,71,137,80,4,159,140,0,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,actual_SA,2,0,3,259,0,4,4,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,actual_RD,163,448,69,37,921,220,2,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,actual_MF,116,231,38,18,199,493,0,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000
+Syn_04,actual_NO_RECOMMENDATION,0,0,0,0,0,0,0,Large synthetic iteration 4,LLM synthetic dataset 4,Generated larger synthetic dataset.,125000

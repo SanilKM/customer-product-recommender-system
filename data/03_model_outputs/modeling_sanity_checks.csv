@@ -1,0 +1,13 @@
+check,value,expected,status
+model_ready_rows,90000,customers x months x 6 products,PASS
+unique_customers,15000,should match previous outputs,PASS
+products,"CC, HL, MF, PL, RD, SA","PL, CC, HL, SA, RD, MF",PASS
+already_held_products_with_positive_final_score,0,0,PASS
+top_n_rows,43800,up to customer-months x top_n,PASS
+propensity_score_range,0.0100 to 0.9120,roughly 0 to 1,PASS
+digital_intent_score_range,0.0000 to 0.9411,roughly 0 to 1,PASS
+transaction_interest_score_range,0.0000 to 0.6523,roughly 0 to 1,PASS
+cooccurrence_score_norm_range,0.0000 to 1.0000,roughly 0 to 1,PASS
+segment_affinity_score_norm_range,0.0000 to 1.0000,roughly 0 to 1,PASS
+hybrid_recommendation_score_range,0.0000 to 0.7887,roughly 0 to 1,PASS
+hybrid_proxy_hit_rate_at_3,0.8628,higher is better; proxy only,PASS
